@@ -22,7 +22,7 @@ Satellite images of slums listed in [Listofslumcluster2015](https://sra.gov.in/u
 This web application, built with Django, enables users to upload satellite images of a city region and receive a segmented mask highlighting the slum areas. The mask is generated based on the uploaded image and is available for download in PNG format, preserving the original image's resolution.
 
 You can access the web application via the following link:  
-[Segmentation Web App](https://segmentation-six.vercel.app/)
+[Segmentation Web App](https://app-slum-web-app-ur3bwvqmdin8zuw8w5v4cy.streamlit.app/)
 
 ### Future work:
 Training larger models with more parameters using superior GPUs like NVIDIA A100 to furthur improve accuracy. 
